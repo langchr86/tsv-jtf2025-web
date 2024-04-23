@@ -1,4 +1,5 @@
 title: 'Jugendturnfest 2025 - TSV Mettauertal'
+copyright: 'TSV Mettauertal'
 baseURL: 'https://jtf2025.ch/'
 languageCode: 'de-ch'
 theme: 'ananke'
@@ -6,16 +7,17 @@ resourceDir: "../resources"
 
 DefaultContentLanguage: "de"
 SectionPagesMenu: "main"
-Paginate: 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate: 5
 enableRobotsTXT: true
 
 params:
-  text_color: ""
-  author: ""
+  text_color: "near-black"
+  author: "TSV Mettauertal"
   favicon: "images/favicon.png"
   site_logo: "images/logo.png"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class: "bg-black"
+  background_color_class: "bg-mid-gray"
+  cover_dimming_class: "bg-black-50"
   recent_posts_number: 3
 
   ananke_socials:
