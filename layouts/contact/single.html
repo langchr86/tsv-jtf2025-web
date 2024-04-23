@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+        <div class='nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}'>
+            <h2>Kontaktformular: {{ .Title }}</h2>
+
+            <div>
+                Mit folgendem Formular kannst du eine Nachricht an das Ressort '{{ .Title }}' versenden.
+            </div>
+
+            <form class="pa4 black-80" accept-charset="UTF-8" action="{{ .Params.Action }}" method="POST">
+                <label for="name" class="f6 b db mb2">Mein Name</label>
+                <input class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2" type="text" id="name"
+                       name="name" required>
+
+                <label for="email" class="f6 b db mb2">Meine E-Mail</label>
+                <input class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2" type="email"
+                       id="email" name="email" required>
+
+                <label for="message" class="f6 b db mb2">Meine Nachricht</label>
+                <textarea class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"
+                          id="message" name="message" required></textarea>
+
+                <button type="submit">Absenden</button>
+            </form>
+
+            {{ .Content }}
+        </div>
+    </article>
+</div>
+{{ end }}
