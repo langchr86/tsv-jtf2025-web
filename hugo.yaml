@@ -21,6 +21,10 @@ params:
   recent_posts_number: 3
 
   ananke_socials:
+    - name: "tsv"
+      label: "TSV"
+      url: "https://tsvmettauertal.ch"
+      color: "orange"
     - name: "facebook"
       url: "https://www.facebook.com/tsvmettauertal"
     - name: "instagram"
