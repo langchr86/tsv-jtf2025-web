@@ -1,6 +1,4 @@
 ---
 title: 'Finanzen'
-action: 'https://formspree.io/f/mqkrwllv'
+action: 'https://submit-form.com/7vNar3iXJ'
 ---
-
-Spezial Text Finanzen

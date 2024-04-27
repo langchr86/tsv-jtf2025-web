@@ -1,9 +1,4 @@
 ---
 title: 'Präsidium'
-action: 'https://formspree.io/f/mqkrwllv'
+action: 'https://submit-form.com/ZqTLvnlDG'
 ---
-
-Bemerkung
-----------
-
-Spezial Text Präsi

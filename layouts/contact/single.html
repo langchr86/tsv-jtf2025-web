@@ -1,4 +1,10 @@
 {{ define "main" }}
+<head>
+    <meta charset="UTF-8"/>
+    <title>Formspark | HTML with Botpoison</title>
+    <script src="https://unpkg.com/@botpoison/browser" async></script>
+</head>
+<body>
 <div class="flex-l mt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
         <div class='nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}'>
@@ -8,18 +14,19 @@
                 Mit folgendem Formular kannst du eine Nachricht an das Ressort '{{ .Title }}' versenden.
             </div>
 
-            <form class="pa4 black-80" accept-charset="UTF-8" action="{{ .Params.Action }}" method="POST">
+            <form class="pa4 black-80" accept-charset="UTF-8" action="{{ .Params.Action }}"
+                  data-botpoison-public-key='{{ $.Param "botpoison_pk" }}' method="POST">
                 <label for="name" class="f6 b db mb2">Mein Name</label>
                 <input class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2" type="text" id="name"
-                       name="name" required>
+                       name="name" placeholder="Name" required>
 
                 <label for="email" class="f6 b db mb2">Meine E-Mail</label>
                 <input class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2" type="email"
-                       id="email" name="email" required>
+                       id="email" name="email" placeholder="Email" required>
 
                 <label for="message" class="f6 b db mb2">Meine Nachricht</label>
                 <textarea class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2"
-                          id="message" name="message" required></textarea>
+                          id="message" name="message" placeholder="Message" required></textarea>
 
                 <button type="submit">Absenden</button>
             </form>
@@ -28,4 +35,5 @@
         </div>
     </article>
 </div>
+</body>
 {{ end }}

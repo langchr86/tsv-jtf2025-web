@@ -20,6 +20,8 @@ params:
   cover_dimming_class: "bg-black-50"
   recent_posts_number: 3
 
+  botpoison_pk: "pk_60c8f808-cbb8-47e8-974b-b89273dcf2f5"
+
   ananke_socials:
     - name: "tsv"
       label: "TSV"
