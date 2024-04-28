@@ -1,0 +1,126 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Willkommen"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  identifier = "turnbetrieb"
+  name = "Turnbetrieb"
+  pageRef = "/turnbetrieb"
+  weight = 20
+
+[[main]]
+  name = "Organsation"
+  pageRef = "/organisation"
+  weight = 30
+[[main]]
+  name = "OK"
+  parent = "Organsation"
+  pageRef = "/organisation/ok"
+  weight = 1
+[[main]]
+  name = "Datenschutz"
+  parent = "Organsation"
+  pageRef = "/organisation/datenschutz"
+  weight = 100
+[[main]]
+  name = "Impressum"
+  parent = "Organsation"
+  pageRef = "/organisation/impressum"
+  weight = 110
+
+[[main]]
+  name = "Blog"
+  pageRef = "/blog"
+  weight = 40
+
+[[main]]
+  name = "Kontakt"
+  pageRef = "/contact"
+  weight = 90
+[[main]]
+  name = "Präsidium"
+  parent = "Kontakt"
+  pageRef = "/contact/prasidium"
+  weight = 1
+[[main]]
+  identifier = "contact_turnbetrieb"
+  name = "Turnbetrieb"
+  parent = "Kontakt"
+  pageRef = "/contact/turnbetrieb"
+  weight = 2
+[[main]]
+  name = "Festwirtschaft"
+  parent = "Kontakt"
+  pageRef = "/contact/festwirtschaft"
+  weight = 3
+[[main]]
+  name = "Finanzen"
+  parent = "Kontakt"
+  pageRef = "/contact/finanzen"
+  weight = 4
+[[main]]
+  name = "Marketing"
+  parent = "Kontakt"
+  pageRef = "/contact/marketing"
+  weight = 5
+[[main]]
+  name = "Infrastruktur"
+  parent = "Kontakt"
+  pageRef = "/contact/infrastruktur"
+  weight = 6
+[[main]]
+  name = "Personal"
+  parent = "Kontakt"
+  pageRef = "/contact/personal"
+  weight = 7
+
+[[main]]
+  identifier = "tsv"
+  pre = "tsv"
+  url = "https://www.tsvmettauertal.ch"
+  weight = 100
+
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/tsvmettauertal"
+  weight = 101
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/tsvmettauertal"
+  weight = 102
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Kontakt"
+  pageRef = "/contact"
+  weight = 90
+
+ [[footer]]
+   name = "Datenschutz"
+   pageRef = "/organisation/datenschutz"
+   weight = 100
+
+ [[footer]]
+   name = "Impressum"
+   pageRef = "/organisation/impressum"
+   weight = 110
