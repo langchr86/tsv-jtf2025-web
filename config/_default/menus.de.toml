@@ -23,13 +23,18 @@
 
 [[main]]
   name = "Organsation"
-  pageRef = "/organisation"
+  pageRef = "/organisation/ok"
   weight = 30
 [[main]]
   name = "OK"
   parent = "Organsation"
   pageRef = "/organisation/ok"
   weight = 1
+[[main]]
+  name = "Kreisturnverbände"
+  parent = "Organsation"
+  pageRef = "/organisation/kreisturnverbande"
+  weight = 3
 
 [[main]]
   name = "Blog"
