@@ -67,17 +67,17 @@
   pageRef = "/contact/finanzen"
   weight = 4
 [[main]]
-  name = "Marketing"
+  name = "Sponsoring & Marketing"
   parent = "Kontakt"
   pageRef = "/contact/marketing"
   weight = 5
 [[main]]
-  name = "Infrastruktur"
+  name = "Infrastruktur & Bau"
   parent = "Kontakt"
   pageRef = "/contact/infrastruktur"
   weight = 6
 [[main]]
-  name = "Personal"
+  name = "Personal & Webadmin"
   parent = "Kontakt"
   pageRef = "/contact/personal"
   weight = 7
