@@ -81,6 +81,21 @@
   parent = "Kontakt"
   pageRef = "/contact/personal"
   weight = 7
+[[main]]
+  name = "Gesamtwettkampfleitung"
+  parent = "Kontakt"
+  pageRef = "/contact/gwl"
+  weight = 8
+[[main]]
+  name = "Wettkampfanmeldung"
+  parent = "Kontakt"
+  pageRef = "/contact/anmeldung"
+  weight = 9
+[[main]]
+  name = "Richteranmeldung"
+  parent = "Kontakt"
+  pageRef = "/contact/richter"
+  weight = 10
 
 [[main]]
   identifier = "tsv"
