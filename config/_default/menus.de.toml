@@ -16,6 +16,11 @@
   weight = 10
 
 [[main]]
+  name = "News"
+  pageRef = "/news"
+  weight = 15
+
+[[main]]
   identifier = "turnbetrieb"
   name = "Turnbetrieb"
   pageRef = "/turnbetrieb"
@@ -36,10 +41,6 @@
   pageRef = "/organisation/kreisturnverbande"
   weight = 3
 
-[[main]]
-  name = "Blog"
-  pageRef = "/blog"
-  weight = 40
 
 [[main]]
   name = "Kontakt"
