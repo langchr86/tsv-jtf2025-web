@@ -45,57 +45,6 @@
   name = "Kontakt"
   pageRef = "/contact"
   weight = 90
-[[main]]
-  name = "Präsidium"
-  parent = "Kontakt"
-  pageRef = "/contact/prasidium"
-  weight = 1
-[[main]]
-  identifier = "contact_turnbetrieb"
-  name = "Turnbetrieb"
-  parent = "Kontakt"
-  pageRef = "/contact/turnbetrieb"
-  weight = 2
-[[main]]
-  name = "Festwirtschaft"
-  parent = "Kontakt"
-  pageRef = "/contact/festwirtschaft"
-  weight = 3
-[[main]]
-  name = "Finanzen"
-  parent = "Kontakt"
-  pageRef = "/contact/finanzen"
-  weight = 4
-[[main]]
-  name = "Sponsoring & Marketing"
-  parent = "Kontakt"
-  pageRef = "/contact/marketing"
-  weight = 5
-[[main]]
-  name = "Infrastruktur & Bau"
-  parent = "Kontakt"
-  pageRef = "/contact/infrastruktur"
-  weight = 6
-[[main]]
-  name = "Personal & Webadmin"
-  parent = "Kontakt"
-  pageRef = "/contact/personal"
-  weight = 7
-[[main]]
-  name = "Gesamtwettkampfleitung"
-  parent = "Kontakt"
-  pageRef = "/contact/gwl"
-  weight = 8
-[[main]]
-  name = "Wettkampfanmeldung"
-  parent = "Kontakt"
-  pageRef = "/contact/anmeldung"
-  weight = 9
-[[main]]
-  name = "Richteranmeldung"
-  parent = "Kontakt"
-  pageRef = "/contact/richter"
-  weight = 10
 
 [[main]]
   identifier = "tsv"
