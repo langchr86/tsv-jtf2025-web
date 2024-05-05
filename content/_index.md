@@ -11,7 +11,7 @@ Wir freuen uns auf dich.
 
 Neben den aktuellen [News](/news) und Fakten zum [Turnbetrieb](/turnbetrieb),
 findest du auch Infos zur [Organisation](/organisation)
-oder wie du unser Jugendturnfest als [Sponsor](/sponsoring) unterstützen kannst.
+oder wie du unser Jugendturnfest als [Sponsor](/marketing) unterstützen kannst.
 
 Die Suchfunktion {{< icon "search" >}} (oben rechts) hilft dir schnell und einfach alle gewünschten Infos zu finden.
 Bei weiteren Fragen erreichst du uns jederzeit über das [Kontaktformular](/contact).
