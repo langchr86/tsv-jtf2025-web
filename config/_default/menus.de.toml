@@ -25,6 +25,11 @@
   name = "Turnbetrieb"
   pageRef = "/turnbetrieb"
   weight = 20
+[[main]]
+  name = "Standort"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/standort"
+  weight = 3
 
 [[main]]
   name = "Organsation"
