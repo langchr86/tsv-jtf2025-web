@@ -6,8 +6,8 @@ enableCodeCopy = true
 mainSections = [ "news" ]
 disableImageOptimization = true
 disableTextInHeader = true
-defaultBackgroundImage = ""
-defaultFeaturedImage = ""
+defaultBackgroundImage = "img/default_background.jpg"
+defaultFeaturedImage = "img/default_feature.jpg"
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
@@ -33,7 +33,7 @@ showMoreLinkDest = "posts"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
-homepageImage = "img/homepage.jpg"
+homepageImage = "img/default_background.jpg"
 
 [article]
 showDate = true
@@ -64,10 +64,10 @@ showZenMode = false
 
 [list]
 showHero = true
-heroStyle = "basic"
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
-showSummary = true
+showSummary = false
 showTableOfContents = true
 showCards = true
 groupByYear = false

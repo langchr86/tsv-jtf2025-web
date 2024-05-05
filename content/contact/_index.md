@@ -18,6 +18,8 @@ Folgende OK-Ressorts können direkt angeschrieben werden:
 * [Infrastruktur & Bau](/contact/infrastruktur)
 * [Personal & Webadmin](/contact/personal)
 
+Weitere Infos zu der Organisation findest du beim [OK](/organisation/ok).
+
 
 Wettkampfleitung
 ----------------
