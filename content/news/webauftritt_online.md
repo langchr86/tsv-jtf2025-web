@@ -1,7 +1,6 @@
 ---
 title: 'Webseite ist online'
 date: '2024-05-05'
-layout: 'background'
 ---
 
 Als erster grosser Meilenstein wurde heute die Webseite zum Jugendturnfest offiziell in Betrieb genommen.
