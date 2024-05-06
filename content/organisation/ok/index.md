@@ -1,5 +1,6 @@
 ---
 title: 'Organisationskomitee'
+showHero: false
 ---
 
 Mitglieder
