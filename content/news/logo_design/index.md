@@ -28,7 +28,7 @@ Der letzte Schliff und die Digitalisierung erfuhr das Logo durch Katharina Chett
 
 Danke an alle, die zu diesem stimmigen "Bild" unseres Anlasses beigetragen haben.
  
-![Finales Logo](/marketing/werbematerial/Logo_TSV_Jugend_Turnfest.png)
+![Finales Logo](Logo_TSV_Jugend_Turnfest_weisserHintergrund.png)
 
 
 Zeig es weiter
