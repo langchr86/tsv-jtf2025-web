@@ -8,4 +8,4 @@ Hier werden in nächster Zeit laufend neue Infos und Einblicke publiziert werden
 
 Folgt uns auch auf unseren Social-Media-Kanälen:  
 {{< icon "facebook" >}} [Facebook](https://www.facebook.com/tsvmettauertal)  
-{{< icon "instagram" >}} [Instagram](https://www.instagram.com/tsvmettauertal/)
+{{< icon "instagram" >}} [Instagram](https://www.instagram.com/jtf_2025)
