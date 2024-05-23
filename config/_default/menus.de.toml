@@ -84,6 +84,12 @@
   url = "https://www.instagram.com/jtf_2025"
   weight = 102
 
+[[main]]
+  identifier = "rss"
+  pre = "rss"
+  url = "/news/rss"
+  weight = 103
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
