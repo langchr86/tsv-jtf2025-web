@@ -9,7 +9,7 @@ Wir vom [TSV Mettauertal](https://tsvmettauertal.ch/) begrüssen dich ganz herzl
 Das Turnfest findet am **31. Mai 2025** in **Etzgen AG** statt.
 Wir freuen uns auf dich.
 
-Das Fest findet als Teil unseres **10. jährigen Jubiläumsjahres** statt
+Das Fest findet als Teil unseres **10-jährigen Jubiläumsjahres** statt
 und bietet regionalen Jugendriegen die optimale Möglichkeit einer Generalprobe für das [ETF](https://lausanne2025.ch/de).
 Anderen Vereinen, welche die weite Reise nach Lausanne nicht antreten können,
 dient unser Turnfest als eine günstige Alternative.
