@@ -26,6 +26,11 @@
   pageRef = "/turnbetrieb"
   weight = 20
 [[main]]
+  name = "Disziplinen"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/disziplinen"
+  weight = 1
+[[main]]
   name = "Standort"
   parent = "turnbetrieb"
   pageRef = "/turnbetrieb/standort"
