@@ -56,6 +56,11 @@
   pageRef = "/marketing"
   weight = 40
 [[main]]
+  name = "Unsere Sponsoren"
+  parent = "Marketing"
+  pageRef = "/marketing/sponsoren"
+  weight = 2
+[[main]]
   name = "Sponsoring-Konzept"
   parent = "Marketing"
   pageRef = "/marketing/konzept"
