@@ -18,3 +18,11 @@ oder wie du unser Jugendturnfest als [Sponsor](/marketing) unterstützen kannst.
 
 Die Suchfunktion {{< icon "search" >}} (oben rechts) hilft dir schnell und einfach alle gewünschten Infos zu finden.
 Bei weiteren Fragen erreichst du uns jederzeit über das [Kontaktformular](/contact).
+
+
+Unsere Platin-[Sponsoren](marketing/sponsoren)
+----------------------------------------------
+
+<a href="https://www.mettauertal.ch" target="blank">
+  <img src="marketing/sponsoren/platin/mettauertal.png" alt="mettauertal" class="nozoom">
+</a>
