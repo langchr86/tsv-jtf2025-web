@@ -7,9 +7,8 @@ Einteiliger Vereinswettkampf
 
 ### Geräteturnen
 
-* Barren (BA) 
-* Gerätekombination (GK) 
-* Schulreck (RE)
+* Barren (BA)
+* Gerätekombination (GK)
 * Schulstufenbarren (SSB)
 
 
@@ -18,26 +17,25 @@ Dreiteiliger Vereinswettkampf
 
 ###  Geräteturnen
 
-* Barren (BA) 
-* Gerätekombination (GK) 
-* Schulreck (RE)
+* Barren (BA)
+* Gerätekombination (GK)
 * Schulstufenbarren (SSB)
 
 ### Leichtathletik
 
-* Ballwurf (BW) 200 g 
-* (Gelände-) Lauf 800 m (GL/800) 
-* Hochsprung (HO) 
+* Ballwurf (BW) 200 g
+* (Gelände-) Lauf 800 m (GL/800)
+* Hochsprung (HO)
 * Kugelstossen (KUG)
   * Turner: 4 kg
-  * Turnerin: 3 kg nur U18/U16/U14 
-* Pendelstafette 60 m (PS60) 
+  * Turnerin: 3 kg nur U18/U16/U14
+* Pendelstafette 60 m (PS60)
 * Weitsprung (WE)
   * Zonenabsprung
 
 ### Jugend-Parcours
 
-* Hindernislauf (HL) 
+* Hindernislauf (HL)
 * Spielparcours Unihockey (UHP)
 * Spieltest Allround (STA)
 
