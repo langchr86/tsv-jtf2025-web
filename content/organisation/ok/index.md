@@ -17,3 +17,5 @@ Möchtest du ein konkretes Ressort anschreiben?
 Dann nutze unser [Kontaktformular](/contact).
 
 ![Organigramm](organigramm.png)
+
+Die OK-Mitglieder (dunkelblau) werden zudem in spezifischen Ressorts von Sub-OK-Mitglieder (hellblau) unterstützt.
