@@ -8,6 +8,7 @@ Einteiliger Vereinswettkampf
 ### Geräteturnen
 
 * Barren (BA)
+* Boden (BO)
 * Gerätekombination (GK)
 * Schulstufenbarren (SSB)
 
@@ -18,13 +19,14 @@ Dreiteiliger Vereinswettkampf
 ###  Geräteturnen
 
 * Barren (BA)
+* Boden (BO)
 * Gerätekombination (GK)
 * Schulstufenbarren (SSB)
 
 ### Leichtathletik
 
 * Ballwurf (BW) 200 g
-* (Gelände-) Lauf 800 m (GL/800)
+* Geländelauf (GL)
 * Hochsprung (HO)
 * Kugelstossen (KUG)
   * Turner: 4 kg
