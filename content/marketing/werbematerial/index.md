@@ -43,6 +43,11 @@ Druck
 [TSV_Jugendturnfest_25_Blache_1600x1000_Druck.jpg](TSV_Jugendturnfest_25_Blache_1600x1000_Druck.jpg)
 [TSV_Jugendturnfest_25_Blache_1600x1000_Druck.pdf](TSV_Jugendturnfest_25_Blache_1600x1000_Druck.pdf)
 
+Die gross ausgedruckte Werbeblache wird bei unterschiedlichen Wettkämpfen und Festen aufgehängt.
+Falls du an deinem Anlass eine Möglichkeit hast, die Blache aufzuhängen
+und so unseren regionalen Jugendanlass zu unterstützen,
+melde dich einfach mittels dem [Kontaktformular Marketing](/contact/marketing/) bei uns.
+
 ### Flyer
 
 ![TSV_Jugenturnfest_2025_Flyer_Druck](TSV_Jugenturnfest_2025_Flyer_Druck.jpg)
