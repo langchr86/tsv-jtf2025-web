@@ -20,7 +20,7 @@ Die Suchfunktion {{< icon "search" >}} (oben rechts) hilft dir schnell und einfa
 Bei weiteren Fragen erreichst du uns jederzeit über das [Kontaktformular](/contact).
 
 
-Unsere Platin-[Sponsoren](marketing/sponsoren)
+Unsere [Platin-Sponsoren](marketing/sponsoren)
 ----------------------------------------------
 
 <a href="https://www.mettauertal.ch" target="blank">
