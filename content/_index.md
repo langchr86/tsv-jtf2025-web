@@ -24,5 +24,9 @@ Unsere [Platin-Sponsoren](marketing/sponsoren)
 ----------------------------------------------
 
 <a href="https://www.mettauertal.ch" target="blank">
-  <img src="marketing/sponsoren/platin/mettauertal.png" alt="mettauertal" class="nozoom">
+  <img src="marketing/sponsoren/platin/mettauertal.png" alt="Mettauertal" class="nozoom">
+</a>
+
+<a href="https://www.erne.ch" target="blank">
+  <img src="marketing/sponsoren/platin/erne.jpg" alt="ERNE" class="nozoom">
 </a>

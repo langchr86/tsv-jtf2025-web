@@ -7,14 +7,27 @@ Wir danken allen, die unseren Anlass, und damit unsere Jungsportler, tatkräftig
 Platin
 ======
 
+{{< gallery >}}
+
 {{< figure
     src=platin/mettauertal.png
-    alt=mettauertal
+    alt="Mettauertal"
     href=https://www.mettauertal.ch
     target=blank
     nozoom=true
     class="grid-w50"
 >}}
+
+{{< figure
+    src=platin/erne.jpg
+    alt="ERNE"
+    href=https://www.erne.ch
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< /gallery >}}
 
 
 <br></br>
@@ -30,14 +43,27 @@ Leider noch keine Goldsponsoren.
 Silber
 ======
 
+{{< gallery >}}
+
 {{< figure
     src=silber/schriinerhus.jpg
-    alt=schriinerhus
+    alt="Schriinerhus"
     href=https://www.schriinerhus.ch/
     target=blank
     nozoom=true
     class="grid-w50"
 >}}
+
+{{< figure
+    src=silber/feldschlosschen.jpg
+    alt="Feldschlösschen"
+    href=https://feldschloesschen.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< /gallery >}}
 
 
 <br></br>
@@ -45,14 +71,45 @@ Silber
 Bronze
 ======
 
+{{< gallery >}}
+
 {{< figure
     src=bronze/naturenergie.png
-    alt=naturenergie
+    alt="Naturenergie"
     href=https://www.naturenergie.de/
     target=blank
     nozoom=true
     class="grid-w50"
 >}}
+
+{{< figure
+    src=bronze/axa.png
+    alt="Axa"
+    href=https://www.axa.ch/laufenburg
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< figure
+    src=bronze/stauble_treuhand.png
+    alt="Stäuble Treuhand"
+    href=https://www.staeubletreuhand.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< figure
+    src=bronze/taro.png
+    alt="Taro Architekten"
+    href=https://www.taroarchitekten.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< /gallery >}}
 
 
 <br></br>
