@@ -26,6 +26,8 @@ und nach zwei kreativen Sitzungen und vielen Entwürfen unser Logo von Hand geze
 Dieses beinhaltet die drei wichtigsten Teile, welche unseren Anlass verbinden: den Verein, die Gemeinde und die Jugend.
 Der letzte Schliff und die Digitalisierung erfuhr das Logo durch Katharina Chettata-Schmidt.
 
+![Katharina Chettata-Schmidt](Logo_kathachettata_SW.jpg)
+
 Danke an alle, die zu diesem stimmigen "Bild" unseres Anlasses beigetragen haben.
  
 ![Finales Logo](Logo_TSV_Jugend_Turnfest_weisserHintergrund.png)
