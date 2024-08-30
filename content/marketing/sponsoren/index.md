@@ -63,6 +63,15 @@ Silber
     class="grid-w50"
 >}}
 
+{{< figure
+    src=silber/knecht_muhle.png
+    alt="Knecht Mühle"
+    href=https://www.knechtmuehle.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
 {{< /gallery >}}
 
 
