@@ -27,6 +27,15 @@ Platin
     class="grid-w50"
 >}}
 
+{{< figure
+    src=platin/swisslos.png
+    alt="Swisslos Sportfonds Aargau"
+    href=https://www.swisslos.ch
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
 {{< /gallery >}}
 
 

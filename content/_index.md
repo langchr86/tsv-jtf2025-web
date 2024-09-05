@@ -30,3 +30,7 @@ Unsere [Platin-Sponsoren](marketing/sponsoren)
 <a href="https://www.erne.ch" target="blank">
   <img src="marketing/sponsoren/platin/erne.jpg" alt="ERNE" class="nozoom">
 </a>
+
+<a href="https://www.swisslos.ch" target="blank">
+  <img src="marketing/sponsoren/platin/swisslos.png" alt="Swisslos Sportfonds Aargau" class="nozoom">
+</a>
