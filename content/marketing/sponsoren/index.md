@@ -5,7 +5,7 @@ title: 'Unsere Sponsoren'
 Wir danken allen, die unseren Anlass, und damit unsere Jungsportler, tatkräftig unterstützten.
 
 Platin
-======
+------
 
 {{< gallery >}}
 
@@ -38,19 +38,19 @@ Platin
 
 {{< /gallery >}}
 
-
 <br></br>
 
+
 Gold
-====
+----
 
 Leider noch keine Goldsponsoren.
 
-
 <br></br>
 
+
 Silber
-======
+------
 
 {{< gallery >}}
 
@@ -83,11 +83,11 @@ Silber
 
 {{< /gallery >}}
 
-
 <br></br>
 
+
 Bronze
-======
+------
 
 {{< gallery >}}
 
@@ -149,8 +149,15 @@ Bronze
 
 <br></br>
 
+
+Gönner
+------
+
+* Restaurant Bahnhof Schwaderloch
+
+
 Sponsor werden?
-===============
+---------------
 
 Falls Sie ebenfalls Sponsor werden wollen,
 finden sie alle Infos unter [Sponsoring-Konzept](/marketing/konzept).
