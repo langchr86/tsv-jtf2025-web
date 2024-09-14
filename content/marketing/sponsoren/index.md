@@ -127,8 +127,25 @@ Bronze
     class="grid-w50"
 >}}
 
-{{< /gallery >}}
+{{< figure
+    src=bronze/balteschwiler.jpg
+    alt="Balteschwiler"
+    href=https://balteschwiler.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
 
+{{< figure
+    src=bronze/erne_kalt.png
+    alt="Erne & Kalt AG"
+    href=https://erne-kalt.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< /gallery >}}
 
 <br></br>
 
