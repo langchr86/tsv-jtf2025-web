@@ -6,12 +6,19 @@ title: 'Anmeldung'
 Wettkampfanmeldung
 ------------------
 
-Die Wettkampfanmeldung für Vereine wird am **16. September** im STV-Contest aufgeschaltet.
-Der Anmeldeschluss ist am **20. Dezember**.
-Danach muss die namentliche Meldung bis am **28. Februar** gemacht werden.
+Du kannst deinen Verein über STV Contest unter folgendem Link anmelden:
+
+❗ [Anmeldung JTF Mettauertal 2025](https://contest.stv-fsg.ch/mettauertal2025/) ❗
+
+Der Anmeldeschluss ist am **20. Dezember 2024**.
+Danach muss die namentliche Meldung bis am **28. Februar 2025** gemacht werden.
 
 Gastvereine aus anderen Kreisen und Verbänden sind herzlich willkommen.
 
-Der Festkartenpreis wurde noch nicht definitiv fixiert, wird aber ungefähr 35.- betragen.
+Der Festkartenpreis beträgt sFr. 35.00.
 
-Weitere Infos folgen zu einem späteren Zeitpunkt.
+Weitere relevante Infos unter:
+
+* [Standort](/turnbetrieb/standort)
+* [Reglemente](/turnbetrieb/reglemente)
+* [Zeitpläne](/turnbetrieb/zeitplane)

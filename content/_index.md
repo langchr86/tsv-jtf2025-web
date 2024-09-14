@@ -12,7 +12,7 @@ Wir freuen uns auf dich.
 Das Fest findet als Teil unseres **10-jährigen Jubiläumsjahres** statt
 und bietet regionalen Jugendriegen die optimale Möglichkeit einer Generalprobe für das [eidgenössische Turnfest](https://lausanne2025.ch/de).
 
-Neben den aktuellen [News](/news) und Fakten zum [Turnbetrieb](/turnbetrieb),
+Neben den aktuellen [News](/news), Fakten zum [Turnbetrieb](/turnbetrieb) und der [Anmeldung](/turnbetrieb/anmeldung),
 findest du auch Infos zur [Organisation](/organisation)
 oder wie du unser Jugendturnfest als [Sponsor](/marketing) unterstützen kannst.
 
