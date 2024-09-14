@@ -16,16 +16,50 @@ Der Wettkampfplatz befindet sich in der Nähe des Jehle-Areals und der Schul- un
 Geländeplan
 -----------
 
-Infos folgen zu einem späteren Zeitpunkt.
+![Geländeplan](gelaendeplan.jpg)
+
+Unser Festgelände ist sehr kompakt aufgebaut, weshalb ihr alle Anlagen innert weniger Schritte erreichen könnt.
 
 
-Anreise
--------
+Infostand und Fundbüro
+----------------------
 
-Infos folgen zu einem späteren Zeitpunkt.
+Falls du etwas auf dem Festgelände nicht finden kannst oder sonstige Fragen hast,
+kannst du dich jederzeit bei der **Anmeldung (Nr. 12)** melden.
+Dort kannst du dich auch melden,
+falls du ein Fundgegenstand abgeben willst oder selber etwas verlohren hast.
 
 
-Parkplätze
-----------
+Anreise mit ÖV
+--------------
 
-Infos folgen zu einem späteren Zeitpunkt.
+Die Anreise mit ÖV ist aus diversen Richtungen möglich.
+In allen Fällen steigt ihr an der Bushaltestelle **Etzgen, Schulhaus** aus.
+
+**Achtung**: Diese Haltestelle wird wegen dem Jugendturnfest an die Dorfstrasse verschoben.
+Sie befindet sich somit direkt am Rand des Festgeländes.
+
+* Aus der Richtung Laufenburg nehmt ihr den **Bus 142 Richtung Brugg**.
+* Aus der Richtung Brugg nehmt ihr den **Bus 142 Richtung Laufenburg**.
+* Aus der Richtung Döttingen nehmt ihr den **Bus 149 Richtung Laufenburg**.
+
+**Bitte reserviert** für eure Reisegruppen ganz normal bei der SBB.
+Die SBB ist über unseren Anlass informiert
+und wird bei entsprechenden Reservationen mehr Verkehrsmittel zur Verfügung stellen.
+
+Falls ihr eine Verbindung nehmen müsst, welche nicht durch Etzgen Dorf fährt,
+könnt ihr auch bei der Haltestelle **Etzgen, Rheintalstrasse** aussteigen
+und die Treppe Richtung Bruderklausen-Kapelle und Schulhaus nehmen.
+
+
+Anreise mit PKW und Parkplätze
+------------------------------
+
+Die Anreise per Auto ist ebenfalls gut machbar.
+Wir haben einen grossen Parkplatz direkt am Rand des Festgeländes.
+Diesen erreicht ihr am Besten über die **Kreuzung Haupstrasse-Dorfstrasse**.
+
+Aus Richtung Laufenburg und Brugg fahrt ihr dazu am Kreisel beim Restaurant Sonne vorbei.
+Aus Richtung Döttingen ist die Kreuzung direkt vor dem Dorfeingang links.
+
+![Karte Anreise](karte_anreise.png)
