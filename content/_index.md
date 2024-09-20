@@ -24,13 +24,13 @@ Unsere [Platin-Sponsoren](marketing/sponsoren)
 ----------------------------------------------
 
 <a href="https://www.mettauertal.ch" target="blank">
-  <img src="marketing/sponsoren/platin/mettauertal.png" alt="Mettauertal" class="nozoom">
+  <img src="marketing/sponsoren/platin/mettauertal.png" alt="Mettauertal" class="nozoom border-neutral-100 border-2 rounded-lg">
 </a>
 
 <a href="https://www.erne.ch" target="blank">
-  <img src="marketing/sponsoren/platin/erne.jpg" alt="ERNE" class="nozoom">
+  <img src="marketing/sponsoren/platin/erne.jpg" alt="ERNE" class="nozoom border-neutral-100 border-2 rounded-lg">
 </a>
 
 <a href="https://www.swisslos.ch" target="blank">
-  <img src="marketing/sponsoren/platin/swisslos.png" alt="Swisslos Sportfonds Aargau" class="nozoom">
+  <img src="marketing/sponsoren/platin/swisslos.png" alt="Swisslos Sportfonds Aargau" class="nozoom border-neutral-100 border-2 rounded-lg">
 </a>

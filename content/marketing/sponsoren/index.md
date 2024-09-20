@@ -15,7 +15,7 @@ Platin
     href=https://www.mettauertal.ch
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -24,7 +24,7 @@ Platin
     href=https://www.erne.ch
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -33,7 +33,7 @@ Platin
     href=https://www.swisslos.ch
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< /gallery >}}
@@ -52,7 +52,7 @@ Gold
     href=https://www.jehleag.ch
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< /gallery >}}
@@ -71,7 +71,7 @@ Silber
     href=https://www.schriinerhus.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -80,7 +80,7 @@ Silber
     href=https://feldschloesschen.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -89,7 +89,7 @@ Silber
     href=https://www.knechtmuehle.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< /gallery >}}
@@ -108,7 +108,7 @@ Bronze
     href=https://www.naturenergie.de/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -117,7 +117,7 @@ Bronze
     href=https://www.axa.ch/laufenburg
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -126,7 +126,7 @@ Bronze
     href=https://www.staeubletreuhand.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -135,7 +135,7 @@ Bronze
     href=https://www.taroarchitekten.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -144,7 +144,7 @@ Bronze
     href=https://balteschwiler.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< figure
@@ -153,7 +153,7 @@ Bronze
     href=https://erne-kalt.ch/
     target=blank
     nozoom=true
-    class="grid-w50"
+    class="grid-w50 border-2 rounded-lg"
 >}}
 
 {{< /gallery >}}
