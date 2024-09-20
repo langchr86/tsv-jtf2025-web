@@ -44,7 +44,18 @@ Platin
 Gold
 ----
 
-Leider noch keine Goldsponsoren.
+{{< gallery >}}
+
+{{< figure
+    src=gold/jehle.jpg
+    alt="Jehle AG"
+    href=https://www.jehleag.ch
+    target=blank
+    nozoom=true
+    class="grid-w50"
+>}}
+
+{{< /gallery >}}
 
 <br></br>
 
