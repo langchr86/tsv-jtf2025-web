@@ -92,6 +92,15 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/actemium.jpg
+    alt="Actemium"
+    href=https://www.actemium.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
