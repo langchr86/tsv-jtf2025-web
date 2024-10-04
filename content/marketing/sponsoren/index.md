@@ -36,6 +36,15 @@ Platin
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=platin/akb.png
+    alt="Aargauische Kantonalbank"
+    href=https://www.akb.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>

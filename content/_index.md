@@ -34,3 +34,7 @@ Unsere [Platin-Sponsoren](marketing/sponsoren)
 <a href="https://www.swisslos.ch" target="blank">
   <img src="marketing/sponsoren/platin/swisslos.png" alt="Swisslos Sportfonds Aargau" class="nozoom border-neutral-100 border-2 rounded-lg">
 </a>
+
+<a href="https://www.akb.ch/" target="blank">
+  <img src="marketing/sponsoren/platin/akb.png" alt="Aargauische Kantonalbank" class="nozoom border-neutral-100 border-2 rounded-lg">
+</a>
