@@ -110,6 +110,24 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/kalt.png
+    alt="Kalt AG"
+    href=https://www.kaltag.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
+{{< figure
+    src=silber/frei.jpg
+    alt="W. Frei AG"
+    href=http://freiwag.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
@@ -178,6 +196,15 @@ Bronze
     src=bronze/weber_performance.png
     alt="Weber Performance"
     href=https://www.weber-performance.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
+{{< figure
+    src=bronze/jsumwelt.jpg
+    alt="JS Umwelttechnik"
+    href=http://www.js-umwelttechnik.ch/
     target=blank
     nozoom=true
     class="grid-w50 border-2 rounded-lg"
