@@ -204,7 +204,7 @@ Bronze
 {{< figure
     src=bronze/jsumwelt.jpg
     alt="JS Umwelttechnik"
-    href=http://www.js-umwelttechnik.ch/
+    href=http://www.js-metalltechnik.ch/
     target=blank
     nozoom=true
     class="grid-w50 border-2 rounded-lg"
