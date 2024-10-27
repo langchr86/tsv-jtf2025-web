@@ -219,6 +219,7 @@ Gönner
 ------
 
 * Restaurant Bahnhof Schwaderloch
+* Ortsbürger Mettauertal (Sponsoren Festbrunnen)
 
 
 Sponsor werden?
