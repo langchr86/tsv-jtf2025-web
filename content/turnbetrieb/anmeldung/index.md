@@ -22,3 +22,21 @@ Weitere relevante Infos unter:
 * [Standort](/turnbetrieb/standort)
 * [Reglemente](/turnbetrieb/reglemente)
 * [Zeitpläne](/turnbetrieb/zeitplane)
+
+
+Leiterpreis
+-----------
+
+Fakten:
+
+* Mikrofaser-Badetuch
+* Grösse: 90x180cm
+* Farbe: Navy Blau
+* Preis: sFr. 25.00
+* Mit Logo dezent geprägt, edel & schön, aber nicht auffällig.
+
+Vorteile:
+
+* Gross genug um als Strandtuch zu fungieren, sowie den ganzen Körper abzudecken.
+* Sehr klein zusammenfaltbar. Perfekt für Wanderungen oder Turnerreisen mit kleinem Gepäck.
+* Trocknet sehr schnell.
