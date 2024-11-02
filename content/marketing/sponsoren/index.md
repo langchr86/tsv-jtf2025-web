@@ -128,6 +128,15 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/wps.png
+    alt="WPS - Wärmepumpenservice"
+    href=https://wps-waermepumpenservice.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
@@ -214,6 +223,15 @@ Bronze
     src=bronze/aarvia.png
     alt="Aarvia"
     href=https://aarvia.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
+{{< figure
+    src=bronze/jakobmueller.png
+    alt="Garage Jakob Müller GmbH"
+    href=https://www.garagejakobmueller.ch/
     target=blank
     nozoom=true
     class="grid-w50 border-2 rounded-lg"
