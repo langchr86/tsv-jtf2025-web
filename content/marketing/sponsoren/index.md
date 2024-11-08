@@ -64,6 +64,15 @@ Gold
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=gold/hobax.jpg
+    alt="Hobax GmbH"
+    href=https://www.holz-nach-mass.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
