@@ -246,6 +246,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/waldburger.png
+    alt="Waldburger Ingenieure"
+    href=https://www.wapa.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
@@ -256,6 +265,8 @@ Gönner
 
 * Restaurant Bahnhof Schwaderloch
 * Ortsbürger Mettauertal (Sponsoren Festbrunnen)
+* Migros-Kulturprozent
+* Coop
 
 
 Sponsor werden?
