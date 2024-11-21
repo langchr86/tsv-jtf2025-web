@@ -263,6 +263,7 @@ Bronze
 Gönner
 ------
 
+* Katharina Chettata-Schmidt (Designerin)
 * Restaurant Bahnhof Schwaderloch
 * Ortsbürger Mettauertal (Sponsoren Festbrunnen)
 * Migros-Kulturprozent
