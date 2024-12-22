@@ -146,6 +146,15 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/oeschger_tuetsch.png
+    alt="Oeschger & Tütsch - Kranservice"
+    href=https://kranservice-ot.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
