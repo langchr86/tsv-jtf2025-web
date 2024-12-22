@@ -264,6 +264,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/dentalteam_laufenburg.jpg
+    alt="Dentalteam Laufenburg"
+    href=https://dentalteamlaufenburg.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
