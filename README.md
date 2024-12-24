@@ -21,6 +21,12 @@ Nun kann lokal gearbeitet werden und mittels `hugo server` eine Server-Instanz g
 die unter [localhost:1313](http://localhost:1313) erreichbar ist.
 Diese aktualisiert sich bei den meisten Änderungen im Projekt automatisch.
 
+Dokumentation:
+
+* https://blowfish.page/docs/homepage-layout/
+* https://blowfish.page/docs/shortcodes/
+* https://bootstrapshuffle.com/de/classes
+
 
 Deployment
 ----------
