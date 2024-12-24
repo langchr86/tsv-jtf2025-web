@@ -6,12 +6,11 @@ title: 'Anmeldung'
 Wettkampfanmeldung
 ------------------
 
-Du kannst deinen Verein über STV Contest unter folgendem Link anmelden:
+❗ Die Anmeldung ist seit dem [20. Dezember 2024 abgeschossen](/news/2024-12-24_anmeldung_abgeschlossen). ❗
 
-❗ [Anmeldung JTF Mettauertal 2025](https://contest.stv-fsg.ch/mettauertal2025/) ❗
+Jetzt muss die namentliche Meldung bis am **28. Februar 2025** gemacht werden.
 
-Der Anmeldeschluss ist am **20. Dezember 2024**.
-Danach muss die namentliche Meldung bis am **28. Februar 2025** gemacht werden.
+Bei speziellen Anliegen kannst du dich hier melden: [Gesamtwettkampfleitung](/contact/gwl)
 
 Gastvereine aus anderen Kreisen und Verbänden sind herzlich willkommen.
 
