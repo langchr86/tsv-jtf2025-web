@@ -52,17 +52,17 @@
   weight = 5
 
 [[main]]
-  name = "Organsation"
+  name = "Organisation"
   pageRef = "/organisation"
   weight = 30
 [[main]]
   name = "OK"
-  parent = "Organsation"
+  parent = "Organisation"
   pageRef = "/organisation/ok"
   weight = 1
 [[main]]
   name = "Kreisturnverbände"
-  parent = "Organsation"
+  parent = "Organisation"
   pageRef = "/organisation/kreisturnverbande"
   weight = 3
 
