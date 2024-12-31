@@ -273,6 +273,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/nuclean.png
+    alt="nuclean"
+    href=https://nuclean.ch
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
