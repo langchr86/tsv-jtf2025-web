@@ -7,7 +7,7 @@ date: '2024-12-24'
 Anmeldung abgeschlossen
 -----------------------
 
-Seit dem 20. Dezember 2024 sind alle Vereinsanmeldungen abgeschossen.
+Seit dem 20. Dezember 2024 sind alle Vereinsanmeldungen abgeschlossen.
 Wir freuen uns, dass sich über **50 Vereine mit über 1450 Kinder** für unser Turnfest angemeldet haben!
 Vielen Dank dafür!
 
