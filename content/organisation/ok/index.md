@@ -6,7 +6,7 @@ showHero: false
 Mitglieder
 ----------
 
-![OK](ok.jpg "Von links nach rechts: Christian Lang, Kevin Müller, Lars keller, Reto Oeschger, Lara Oeschger, Michel Senn, Michael Schraner, Rolf Schmid (fehlt: Larissa Weiss)")
+![OK](ok.jpg "Von links nach rechts: Rolf Schmid, Christian Lang, Lars Keller, Larissa Weiss, Reto Oeschger, Michel Senn, Michael Schraner, Lara Oeschger, Kevin Müller")
 
 
 Ressorts
