@@ -291,6 +291,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/mittner.png
+    alt="Mittner Muldenservice"
+    href=https://www.mittner-muldenservice.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
