@@ -164,6 +164,15 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/atvv.jpg
+    alt="ATVV - Aargauer Turnveteranen-Vereinigungen"
+    href=https://www.turnsport.ag/turnveteranen/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
