@@ -73,6 +73,15 @@ Gold
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=gold/hegi.png
+    alt="R. Hegi AG"
+    href=https://elektro-hegi.ch/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
@@ -168,6 +177,15 @@ Silber
     src=silber/atvv.jpg
     alt="ATVV - Aargauer Turnveteranen-Vereinigungen"
     href=https://www.turnsport.ag/turnveteranen/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
+{{< figure
+    src=silber/baeren.jpg
+    alt="Bären Hottwil"
+    href=https://baeren-hottwil.ch/home/
     target=blank
     nozoom=true
     class="grid-w50 border-2 rounded-lg"
