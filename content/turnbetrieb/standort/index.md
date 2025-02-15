@@ -27,7 +27,7 @@ Infostand und Fundbüro
 Falls du etwas auf dem Festgelände nicht finden kannst oder sonstige Fragen hast,
 kannst du dich jederzeit bei der **Anmeldung (Nr. 12)** melden.
 Dort kannst du dich auch melden,
-falls du ein Fundgegenstand abgeben willst oder selber etwas verlohren hast.
+falls du ein Fundgegenstand abgeben willst oder selber etwas verloren hast.
 
 
 Anreise mit ÖV
@@ -56,10 +56,13 @@ Anreise mit PKW und Parkplätze
 ------------------------------
 
 Die Anreise per Auto ist ebenfalls gut machbar.
-Wir haben einen grossen Parkplatz direkt am Rand des Festgeländes.
+Wir haben einen grossen Parkplatz (rot) direkt am Rand des Festgeländes.
 Diesen erreicht ihr am Besten über die **Kreuzung Haupstrasse-Dorfstrasse**.
 
 Aus Richtung Laufenburg und Brugg fahrt ihr dazu am Kreisel beim Restaurant Sonne vorbei.
 Aus Richtung Döttingen ist die Kreuzung direkt vor dem Dorfeingang links.
 
 ![Karte Anreise](karte_anreise.png)
+
+Im Schlechtwetterfall können wir den grossen Parkplatz (rot) auf dem Feld nicht benutzten.
+In diesem Fall wird euch der Verkehrsdienst auf die Schlechtwetter-Parkplätze (violett) verteilen.
