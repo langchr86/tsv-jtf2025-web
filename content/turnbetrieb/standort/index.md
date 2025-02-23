@@ -24,10 +24,8 @@ Unser Festgelände ist sehr kompakt aufgebaut, weshalb ihr alle Anlagen innert w
 Infostand und Fundbüro
 ----------------------
 
-Falls du etwas auf dem Festgelände nicht finden kannst oder sonstige Fragen hast,
-kannst du dich jederzeit bei der **Anmeldung (Nr. 12)** melden.
-Dort kannst du dich auch melden,
-falls du ein Fundgegenstand abgeben willst oder selber etwas verloren hast.
+Den Infostand und das Fundbüro findest du bei der **Anmeldung (Nr. 12)**.
+Detailinfos hier: [Infostand und Fundbüro](/organisation/infostand)
 
 
 Anreise mit ÖV
