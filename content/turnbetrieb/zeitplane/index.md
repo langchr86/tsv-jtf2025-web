@@ -2,8 +2,6 @@
 title: 'Zeitpläne'
 ---
 
+Folgend findest du die aktuellen Zeitpläne:
 
-Zeitpläne
----------
-
-Infos folgen zu einem späteren Zeitpunkt.
+* [2025-02-13_Zeitplan_Alphabetisch.pdf](2025-02-13_Zeitplan_Alphabetisch.pdf)
