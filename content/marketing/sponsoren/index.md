@@ -191,6 +191,15 @@ Silber
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=silber/helvetia.png
+    alt="Helvetia, Hauptagentur Frick"
+    href=https://www.helvetia.com/ch/web/de/privatkunden/kontakt/beratung/agenturen/frick.html
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
