@@ -26,6 +26,7 @@ Der Festkartenpreis beträgt sFr. 35.00.
 Weitere relevante Infos unter:
 
 * [Standort](/turnbetrieb/standort)
+* [Anreise](/turnbetrieb/anreise)
 * [Reglemente](/turnbetrieb/reglemente)
 * [Zeitpläne](/turnbetrieb/zeitplane)
 

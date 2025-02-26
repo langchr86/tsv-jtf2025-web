@@ -50,6 +50,11 @@
   parent = "turnbetrieb"
   pageRef = "/turnbetrieb/zeitplane"
   weight = 5
+[[main]]
+  name = "Anreise"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/anreise"
+  weight = 6
 
 [[main]]
   name = "Organisation"

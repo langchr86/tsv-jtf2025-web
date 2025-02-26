@@ -14,6 +14,7 @@ dass ihr ab heute euren Verein über STV Contest [anmelden](/turnbetrieb/anmeldu
 Neue Infos
 ----------
 
-Zudem findet ihr nun mehr Infos zum Festgelände und der Anreise unter: [Standort](/turnbetrieb/standort)
+Zudem findet ihr nun mehr Infos zum Festgelände und der Anreise unter:
+[Standort](/turnbetrieb/standort) oder [Anreise](/turnbetrieb/anreise)
 
 Alle Wettkampfreglemente finden sich unter: [Reglemente](/turnbetrieb/reglemente)
