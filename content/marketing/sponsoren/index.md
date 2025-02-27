@@ -82,6 +82,15 @@ Gold
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+
+{{< figure
+    src=gold/atside.jpg
+    alt="atside AG"
+    href=https://www.atside.com/
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
 {{< /gallery >}}
 
 <br></br>
