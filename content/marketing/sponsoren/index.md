@@ -345,6 +345,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/kkl.jpg
+    alt="Kernkraftwerk Leibstadt"
+    href=https://www.kkl.ch
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
