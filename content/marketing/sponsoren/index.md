@@ -354,6 +354,15 @@ Bronze
     class="grid-w50 border-2 rounded-lg"
 >}}
 
+{{< figure
+    src=bronze/foerdervereinag.jpg
+    alt="Förderverein Turnsport Aargau"
+    href=https://www.turnsport.ag/foerderverein
+    target=blank
+    nozoom=true
+    class="grid-w50 border-2 rounded-lg"
+>}}
+
 {{< /gallery >}}
 
 <br></br>
