@@ -6,7 +6,7 @@ Infostand
 ---------
 
 Falls du etwas auf dem Festgelände nicht finden kannst oder sonstige Fragen hast,
-kannst du dich jederzeit bei der **Anmeldung (Nr. 12)** melden.
+kannst du dich jederzeit bei der **Anmeldung (Nr. 11)** melden.
 
 Den Geländeplan findest du unter [Standort](/turnbetrieb/standort).
 

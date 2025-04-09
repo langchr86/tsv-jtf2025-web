@@ -27,5 +27,5 @@ Unser Festgelände ist sehr kompakt aufgebaut, weshalb ihr alle Anlagen innert w
 Infostand und Fundbüro
 ----------------------
 
-Den Infostand und das Fundbüro findest du bei der **Anmeldung (Nr. 12)**.
+Den Infostand und das Fundbüro findest du bei der **Anmeldung (Nr. 11)**.
 Detailinfos hier: [Infostand und Fundbüro](/organisation/infostand)
