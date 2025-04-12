@@ -66,6 +66,11 @@
   pageRef = "/organisation/ok"
   weight = 1
 [[main]]
+  name = "Infostand und Fundbüro"
+  parent = "Organisation"
+  pageRef = "/organisation/infostand"
+  weight = 2
+[[main]]
   name = "Kreisturnverbände"
   parent = "Organisation"
   pageRef = "/organisation/kreisturnverbande"
