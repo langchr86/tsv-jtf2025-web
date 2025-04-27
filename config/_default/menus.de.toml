@@ -66,15 +66,20 @@
   pageRef = "/organisation/ok"
   weight = 1
 [[main]]
+  name = "Verpflegung"
+  parent = "Organisation"
+  pageRef = "/organisation/verpflegung"
+  weight = 2
+[[main]]
   name = "Infostand und Fundbüro"
   parent = "Organisation"
   pageRef = "/organisation/infostand"
-  weight = 2
+  weight = 3
 [[main]]
   name = "Kreisturnverbände"
   parent = "Organisation"
   pageRef = "/organisation/kreisturnverbande"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Marketing"
