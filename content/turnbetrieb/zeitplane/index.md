@@ -24,4 +24,4 @@ Verpflegungszeiten
 * Aussenstände geöffnet von 08:00 Uhr - 18:00 Uhr
 * Festzelt geöffnet von 07:30 Uhr - 20:00 Uhr
 * Warme Küche von 10:30 Uhr - 19:00 Uhr
-* Festkartenverpflegung wird individuell per Verein kommuniziert.
+* ❗Die Vereine sollen bitte den Zeitplan für die Festkartenverpflegung einhalten: [ZeitplanFestkartenverpflegung.pdf](ZeitplanFestkartenverpflegung.pdf)
