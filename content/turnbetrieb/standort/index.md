@@ -19,7 +19,7 @@ Infos zur Anreise findet ihr hier: [Anreise](/turnbetrieb/anreise)
 Geländeplan
 -----------
 
-![Geländeplan](gelaendeplan.jpg)
+![Geländeplan](gelaendeplan.png)
 
 Unser Festgelände ist sehr kompakt aufgebaut, weshalb ihr alle Anlagen innert weniger Schritte erreichen könnt.
 
