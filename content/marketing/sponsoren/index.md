@@ -385,6 +385,7 @@ Gönner
 * Ortsbürger Mettauertal (Sponsoren Festbrunnen)
 * Migros-Kulturprozent
 * Coop
+* Obrist Natursteine + Steinsägewerk
 
 
 Sponsor werden?
