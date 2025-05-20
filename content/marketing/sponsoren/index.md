@@ -386,6 +386,7 @@ Gönner
 * Migros-Kulturprozent
 * Coop
 * Obrist Natursteine + Steinsägewerk
+* Weinstation Mettau - Niklaus Essig
 
 
 Sponsor werden?
