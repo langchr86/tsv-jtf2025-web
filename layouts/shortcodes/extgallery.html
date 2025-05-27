@@ -1,0 +1,13 @@
+{{ $baseURL := .Page.Params.imageGallery.baseURL }}
+{{ $count := .Page.Params.imageGallery.count }}
+{{ $prefix := or .Page.Params.imageGallery.prefix "img" }}
+{{ $ext := or .Page.Params.imageGallery.extension "jpg" }}
+
+<div class="gallery">
+  {{ range $i := seq 1 $count }}
+    {{ $filename := printf "%s/%s%d.%s" $baseURL $prefix $i $ext }}
+    <a href="{{ $filename }}" data-lightbox="auto-gallery">
+      <img src="{{ $filename }}" alt="Gallery image {{ $i }}" style="max-width: 200px; margin: 5px;">
+    </a>
+  {{ end }}
+</div>
