@@ -1,0 +1,10 @@
+<!-- PhotoSwipe -->
+<script type="module">
+  import PhotoSwipeLightbox from "/photoswipe/js/photoswipe-lightbox.esm.min.js";
+  const lightbox = new PhotoSwipeLightbox({
+	gallery: "#my-gallery",
+	children: "a",
+	pswpModule: () => import("/photoswipe/js/photoswipe.esm.min.js"),
+  });
+  lightbox.init();
+</script>

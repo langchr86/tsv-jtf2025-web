@@ -1,13 +1,29 @@
-{{ $baseURL := .Page.Params.imageGallery.baseURL }}
-{{ $count := .Page.Params.imageGallery.count }}
-{{ $prefix := or .Page.Params.imageGallery.prefix "img" }}
-{{ $ext := or .Page.Params.imageGallery.extension "jpg" }}
-
-<div class="gallery">
-  {{ range $i := seq 1 $count }}
-    {{ $filename := printf "%s/%s%d.%s" $baseURL $prefix $i $ext }}
-    <a href="{{ $filename }}" data-lightbox="auto-gallery">
-      <img src="{{ $filename }}" alt="Gallery image {{ $i }}" style="max-width: 200px; margin: 5px;">
+<!-- PhotoSwipe Gallery HTML -->
+<div class="pswp-gallery" id="my-gallery">
+  {{ range $i := seq 1 4 }}
+    {{ $filename := printf "https://test.tsvmettauertal.ch/extgallery/news1/img%d.jpg" $i  }}
+    <a
+      href="{{ $filename }}"
+      data-pswp-width="1920"
+      data-pswp-height="1280"
+      target="_blank"
+    >
+      <img
+              class="nozoom"
+              src="{{ $filename }}"
+              alt=""
+      />
     </a>
+  {{ end }}
+</div>
+
+<div class="gallery" id="my-gallery2">
+  {{ range $i := seq 1 4 }}
+    {{ $filename := printf "https://test.tsvmettauertal.ch/extgallery/news1/img%d.jpg" $i  }}
+      <img
+              class="nozoom my-0 rounded-md grid-w33"
+              src="{{ $filename }}"
+              alt=""
+      />
   {{ end }}
 </div>
