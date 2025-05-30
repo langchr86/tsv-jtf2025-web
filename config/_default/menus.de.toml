@@ -60,6 +60,11 @@
   parent = "turnbetrieb"
   pageRef = "/turnbetrieb/letzteweisungen"
   weight = 7
+[[main]]
+  name = "Rangliste"
+  parent = "turnbetrieb"
+  pageRef = "/turnbetrieb/rangliste"
+  weight = 7
 
 [[main]]
   name = "Organisation"
