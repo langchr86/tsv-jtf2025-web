@@ -387,6 +387,7 @@ Gönner
 * Coop
 * Obrist Natursteine + Steinsägewerk
 * Weinstation Mettau - Niklaus Essig
+* Walter Ganz
 
 
 Sponsor werden?
