@@ -9,9 +9,9 @@ Reisebericht
 
 Der TSV Mettauertal war auch dieses Jahr auf Wanderschaft.
 Dieses Mal ging es in das Appenzellerland.
-Den vollen Reisebericht findet ihr auf der Vereinshomepage:
+Die Bilder dazu findet ihr auf der Vereinshomepage:
 
-[Vereinsreise 2024](https://tsvmettauertal.ch/index.php/aktive/174-vereinsreise-2024)
+[Vereinsreise 2024](https://gallery.tsvmettauertal.ch/index.php?/category/18)
 
 
 Jodel-Talente?

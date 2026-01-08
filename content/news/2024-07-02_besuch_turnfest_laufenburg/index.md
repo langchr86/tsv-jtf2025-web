@@ -15,10 +15,6 @@ Andererseits haben wir durchaus das Beste aus der Situation gemacht,
 was auch der Turnfestsieg im Einzelwettkampf von Svenja Erdin deutlich zeigt.
 Wir gratulieren ganz herzlich!
 
-Der ganze Bericht zu unserer Teilnahme findest du hier:
-[Turnfest Aktive 2024](https://tsvmettauertal.ch/index.php/aktive/171-regionalturnfest-aktive-laufenburg-2024) und
-[Turnfest Jugend 2024](https://tsvmettauertal.ch/index.php/jugend/170-regionalturnfest-jugend-laufenburg-2024).
-
 {{< gallery >}}
 <img src="2024-06-20-15-55-51.jpg" class="grid-w50 md:grid-w33 xl:grid-w33" />
 <img src="2024-06-20-16-12-13.jpg" class="grid-w50 md:grid-w33 xl:grid-w33" />
